@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Access this app at https://majestic-shortbread-b33a18.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
